@@ -13,25 +13,25 @@ Please download the dataset and import it into your MySQL database as the table 
 ## Methodology
 The analysis follows these steps:
 
-**Step 1. Data Understanding**  
+✅ **Step 1. Data Understanding**  
   Understand data shape, uniqueness, null values, and variable types.  
   - [01_data_understanding.sql](Scripts/01_data_understanding.sql)
 
-**Step 2. Data Cleaning**  
+✅ **Step 2. Data Cleaning**  
   Handle missing values, fix inconsistencies, and prepare for analysis.  
   - [02_data_cleaning.sql](Scripts/02_data_cleaning.sql)
 
-**Step 3. Univariate Analysis**  
+✅ **Step 3. Univariate Analysis**  
   Study distributions and summary statistics of individual variables.  
   - [03_measures_univariate_analysis.sql](Scripts/03_measures_univariate_analysis.sql)  
   - [04_dimensions_univariate_analysis.sql](Scripts/04_dimensions_univariate_analysis.sql)
 
-**Step 4. Feature Engineering & Featured Dimensions Univariate Analysis**  
+✅ **Step 4. Feature Engineering & Featured Dimensions Univariate Analysis**  
   Create new fields like age groups, fare bands, family size, and alone status and perform univariate analysis.  
   - [05_feature_engineering.sql](Scripts/05_feature_engineering.sql)  
   - [06_featured_dimensions_univariate_analysis.sql](Scripts/06_featured_dimensions_univariate_analysis.sql)
 
-**Step 5. Bivariate Analysis**  
+✅ **Step 5. Bivariate Analysis**  
   Explore relationships between features and survival status.  
   - [07_measures_bivariate_analysis.sql](Scripts/07_measures_bivariate_analysis.sql)
   - [08_dimensions_bivariate_analysis.sql](Scripts/08_dimensions_bivariate_analysis.sql)
