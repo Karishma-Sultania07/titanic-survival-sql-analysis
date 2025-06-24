@@ -2,7 +2,7 @@
 This project analyzes the survival patterns of Titanic passengers through exploratory data analysis (EDA) using SQL.
 
 ## Objective
-To identify key features that influenced survival, using SQL-based EDA, and provide actionable insights for further analysis.
+To identify key features that influenced survival, using SQL-based EDA, and provide insights.
 
 ## Dataset
 The dataset used is the [Titanic dataset from Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset), which contains passenger details including demographics, ticket class, family relationships, fare, and survival status.
